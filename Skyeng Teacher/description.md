@@ -55,34 +55,33 @@
 
 [Чек лист](https://github.com/storyofmarmary/Portfolio-QA/blob/main/Skyeng%20Teacher/%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.pdf) 
 
-Можно воспользоваться прямым доступом к сервису Sitechco: https://chlist.sitechco.ru/project/31181/checklist/1290099/details 
-
-логин: marikabereg@gmail.com
-пароль: Halloffame
+- *ДОП! Доступ к Sitechco: https://chlist.sitechco.ru/project/31181/checklist/1290099/details* 
+- *логин: marikabereg@gmail.com пароль: Halloffame*
 
 **2). Smoke-тестирование**
 
-Тест-кейсы: https://app.qase.io/project/COURSE1?view=1&suite=2 
-
-Логин: marikabereg@gmaill.com
-Пароль: Halloffame
+[Тест-кейсы]() 
+- *ДОП! Доступ к Qase.io: https://app.qase.io/project/COURSE1?suite=2*
+- *Логин: marikabereg@gmaill.com Пароль: Halloffame*
 
 **3). Приемочное тестирование**
 
-Тест-кейсы: https://app.qase.io/project/COURSE1?view=1&suite=2 
-
+[Тест-кейсы]() 
+- *ДОП! Доступ к Qase.io: https://app.qase.io/project/COURSE1?suite=1* 
+- *Логин: marikabereg@gmaill.com Пароль: Halloffame*
+ 
 **4). Регрессионное тестирование**
 
-Чек лист: https://chlist.sitechco.ru/project/31181/checklist/1295637/details
+[Чек лист]() 
 
-логин: marikabereg@gmail.com
-пароль: Halloffame
+- *ДОП! Доступ к Sitechco: https://chlist.sitechco.ru/project/31181/checklist/1295637/details*
+- *логин: marikabereg@gmail.com пароль: Halloffame*
 
 **5). Тестирование API**
 
-Тест-кейсы: https://app.qase.io/project/COURSE1?view=1&suite=3
+[Тест-кейсы]() 
 
-Логин: marikabereg@gmaill.com
-Пароль: Halloffame
+- *ДОП! Доступ к Qase.io: https://app.qase.io/project/COURSE1?view=1&suite=3*
+- *Логин: marikabereg@gmaill.com Пароль: Halloffame*
 
 Postman-коллекция: https://www.getpostman.com/collections/7a33171ba210e5fc3126 
