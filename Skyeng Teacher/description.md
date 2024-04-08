@@ -60,27 +60,25 @@
 
 **2). Smoke-тестирование**
 
-[Тест-кейсы]() 
+[**Тест-кейсы**](https://github.com/storyofmarmary/Portfolio-QA/blob/main/Skyeng%20Teacher/Smoke%20Teachers.pdf) 
 - *ДОП! Доступ к Qase.io: https://app.qase.io/project/COURSE1?suite=2*
 - *Логин: marikabereg@gmaill.com Пароль: Halloffame*
 
 **3). Приемочное тестирование**
 
-[Тест-кейсы]() 
+[**Тест-кейсы**]() 
 - *ДОП! Доступ к Qase.io: https://app.qase.io/project/COURSE1?suite=1* 
 - *Логин: marikabereg@gmaill.com Пароль: Halloffame*
  
 **4). Регрессионное тестирование**
 
-[Чек лист]() 
-
+[**Чек лист**](https://github.com/storyofmarmary/Portfolio-QA/blob/main/Skyeng%20Teacher/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%20%D0%B4%D0%BB%D1%8F%20%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.pdf) 
 - *ДОП! Доступ к Sitechco: https://chlist.sitechco.ru/project/31181/checklist/1295637/details*
 - *логин: marikabereg@gmail.com пароль: Halloffame*
 
 **5). Тестирование API**
 
-[Тест-кейсы]() 
-
+[**Тест-кейсы**]() 
 - *ДОП! Доступ к Qase.io: https://app.qase.io/project/COURSE1?view=1&suite=3*
 - *Логин: marikabereg@gmaill.com Пароль: Halloffame*
 
